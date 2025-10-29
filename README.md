@@ -36,4 +36,5 @@ Reveals “strong vs. weak provincial capitals” patterns across China’s urba
 **Author**
 
 Xiong Si Cheng –  School of Social and Political Science , The University of Edinburgh
+
 Focus: Data Analysis · Socioeconomic Modelling · Quantitative Research
